@@ -1,0 +1,3 @@
+[submodule "React-FE/social_media"]
+	path = React-FE/social_media
+	url = https://github.com/mukeshsakthivel/Social-Media-React.git
